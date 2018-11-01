@@ -1,9 +1,3 @@
----
-description: >-
-  In this section, we shall see how GooFit works like it's cousin RooFit in
-  fitting user defined PDFs to data.
----
-
 # A Basic Fit WIth GooFit
 
 In this example we are going to look at fitting a Gaussian signal with a polynomial background just as you might be familiar with in RooFit. This example can be found in the build directory under Addition. We will look at the source file addition.cpp

@@ -1,10 +1,3 @@
----
-description: >-
-  How do we produce plots after a fit. This is essentially done within your code
-  and can be done with the ROOT package. Following from our fitting example,
-  let's plot the results.
----
-
 # Plotting a Fit
 
 
